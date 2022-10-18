@@ -3,6 +3,8 @@
 
 * This is a modification of the following repo - https://github.com/huntabyte/tig-stack.git
 
+This is the best resource for getting up and running with TIG stack on the internet currently - https://www.youtube.com/watch?v=QGG_76OmRnA which is provided by [Hunter Johnston](https://github.com/huntabyte)
+
 # Telegraf, InfluxDB, Grafana (TIG) Stack
 
 Gain the ability to analyze and monitor telemetry data by deploying the TIG stack within minutes using [Docker](https://docs.docker.com/engine/install/) and [Docker Compose](https://docs.docker.com/compose/install/).
