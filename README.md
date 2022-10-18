@@ -46,6 +46,12 @@ Start the services
 ```bash
 docker-compose up -d
 ```
+
+Access the Services
+- [Grafana](localhost:3000)
+- [InfluxDB](localhost:8086)
+
+
 ## Docker Images Used (Official & Verified)
 
 [**Telegraf**](https://hub.docker.com/_/telegraf) / `1.19`
@@ -59,4 +65,10 @@ docker-compose up -d
 ## Resources
 
 This is a modification of the following repo - https://github.com/huntabyte/tig-stack.git
+- https://www.blackvoid.club/grafana-8-influxdb-2-telegraf-2021-monitoring-stack/
+- https://towardsdatascience.com/get-system-metrics-for-5-min-with-docker-telegraf-influxdb-and-grafana-97cfd957f0ac
+- https://github.com/phillhocking/aws-ubuntu-tig
+- https://github.com/pihlajus/ruuvitag-aws-provisioning
+- https://hackernoon.com/monitor-your-infrastructure-with-tig-stack-b63971a15ccf
+- https://octoperf.com/blog/2019/09/19/kraken-kubernetes-influxdb-grafana-telegraf/#prerequisites
 
