@@ -52,7 +52,7 @@ docker-compose up -d
 
 [**InfluxDB**](https://hub.docker.com/_/influxdb) / `2.1.1`
 
-[**Grafana-OSS**](https://hub.docker.com/r/grafana/grafana) / `latest`
+[**Grafana**](https://hub.docker.com/r/grafana/grafana) / `latest`
 
 
 
