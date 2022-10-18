@@ -1,6 +1,7 @@
 
 ![Logo](https://user-images.githubusercontent.com/64506580/159311466-f720a877-6c76-403a-904d-134addbd6a86.png)
 
+* This is a modification of the following repo - https://github.com/huntabyte/tig-stack.git
 
 # Telegraf, InfluxDB, Grafana (TIG) Stack
 
@@ -12,7 +13,7 @@ Gain the ability to analyze and monitor telemetry data by deploying the TIG stac
 Clone the project
 
 ```bash
-  git clone https://github.com/huntabyte/tig-stack.git
+  git clone https://github.com/devunderslash/tig-stack.git
 ```
 
 Navigate to the project directory
